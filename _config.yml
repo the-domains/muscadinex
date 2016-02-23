@@ -1,0 +1,28 @@
+name: muscadinex
+favicon: null
+layout_spectrum: 0.4089519411791116
+typography_spectrum: 0.9001073739491403
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6542554807383567
+  lightness: 0.3812898776959628
+  saturation: 0.43285002280026674
+  rhythmicContrast: 0.502541737165302
+purpose: []
